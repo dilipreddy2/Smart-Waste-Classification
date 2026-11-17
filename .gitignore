@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter files
+.ipynb_checkpoints/
+
+# Dataset images
+dataset/
+
+# Model backups and experimental models
+model/*.keras
+!model/best_waste_model_finetuned.keras
+
+# Temporary files
+*.log
+.DS_Store
