@@ -95,18 +95,14 @@ The fine-tuned model achieved **85.49% validation accuracy** on 758 validation i
 
 ## 9. Application Screenshots
 
-### Application Homepage
+### Homepage
+![Homepage](screenshots/01-homepage.png)
 
-![Application Homepage](screenshots/01-homepage.png)
+### Waste Prediction
+![Prediction](screenshots/02-prediction.png)
 
-### Waste Classification Prediction
-
-![Waste Prediction](screenshots/02-prediction.png)
-
-### Model Confusion Matrix
-
+### Confusion Matrix
 ![Confusion Matrix](screenshots/03-confusion-matrix.png)
-
 ## 10. Project Structure
 
 ```text
